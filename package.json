@@ -2,7 +2,7 @@
   "name": "soup",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "liuhaibo <liuhaibo60@crpower.com.cn>",
+  "author": "harryper",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
